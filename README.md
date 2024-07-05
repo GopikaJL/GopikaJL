@@ -40,9 +40,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd3Z3E3MmYzanp1dTZ3cHU0aHhoOGIwNzkwdTg0dGR6M3Nya28yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" alt="Image Processing" height="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="" height="80" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xmMXZjYmF1M250NjJpcWIxeTFubG1iZzhtb3gwdTBvODI2aDBkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" height="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/your-username/repo-name/path-to-sustainable-development-animation.gif" alt="Sustainable Development" height="80" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFldjJnc2ZsMnFwbzh0bWQ1eHB3MTFlMWZjczZoMDV2NHlmdjJsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PvwNfTzHUX9y7ICxiF/giphy.gif" height="80" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhqb2JuZnEwZjNrOXYwdDdpaGoxeG51dXowdml0a3VueHBkaHE1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5krfq8pMdYhAV52xPg/giphy.gif" />
 </p>
 
 
