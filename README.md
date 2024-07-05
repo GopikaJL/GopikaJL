@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Electronics || Machine learning projects || Space exploration projects**
 
-- 👨‍💻 All of my projects are available at [All my projects are available at link to your GitHub portfolio. For certain projects with confidentiality agreements, I can share details upon request](All my projects are available at link to your GitHub portfolio. For certain projects with confidentiality agreements, I can share details upon request)
+- 👨‍💻 All of my projects are available at https://gopikajl.github.io/. For certain projects with confidentiality agreements, I can share details upon request.
 
 - 💬 Ask me about **Computer Vision and Data Science**
 
