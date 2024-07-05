@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **jk.l.gopika@gmail.com**
 
+- 🧠 My primary focus lies in the development of machine learning projects that tackle real-world problems. From ideation to implementation and evaluation, I strive to create innovative and effective solutions.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gopika-jayanthakumar-latha-b45451293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gopikajl" height="30" width="40" /></a>
