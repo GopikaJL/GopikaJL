@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Development of machine learning algorithms that tackle real-world problems**
 
-- 👯 I’m looking to collaborate on **Electronics || Machine learning projects || Space exploration projects**
+- 👯 I’m looking to collaborate on **Electronics projects || Machine learning projects || Space exploration projects**
 
 - 👨‍💻 All of my projects are available at https://gopikajl.github.io/. For certain projects with confidentiality agreements, I can share details upon request.
 
