@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Science projects**
 - 🌱 I’m currently learning **Development of machine learning algorithms that tackle real-world problems**
-- 👯 I’m looking to collaborate on **Electronics projects, Machine Learning projects, Space exploration projects, Image processing projects**
+- 👯 I’m looking to collaborate on **Electronics projects, Machine Learning projects, Space exploration projects, Biomedical and Image processing projects**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gopikajl.github.io/). I can share details upon request for certain projects with confidentiality that are not published on GitHub.
 - 💬 Ask me about **Computer Vision and Data Science**
 - 📫 How to reach me: **jk.l.gopika@gmail.com**
